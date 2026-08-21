@@ -1,6 +1,6 @@
 # Hi, I'm Hamza 👋
 
-CS student on the path to becoming a **Web & App Developer**.
+CS student on the path to becoming a **AI Engineer**.
 
 ## 🚀 About Me
 - 💻 Learning to build for the web and mobile
